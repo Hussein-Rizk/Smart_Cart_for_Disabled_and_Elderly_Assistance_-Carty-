@@ -399,46 +399,6 @@ Testing documented during the project also included:
 
 ---
 
-# 📂 Repository Structure
-
-```text
-Carty-Smart-Follow-Me-Cart/
-│
-├── README.md
-├── Carty.pdf
-├── Carty.pptx
-├── Smart_Cart.png
-├── Team_Members.png
-│
-├── Solidworks_Design/
-│   ├── design trials
-│   ├── individual parts
-│   ├── assemblies
-│   └── final selected design
-│
-├── Graduation_Project_2_Book/
-│   ├── Graduation Project 2 Book (Final Version).docx
-│   └── Graduation Project 2 Book (Final Version).pdf
-│
-├── UI/
-│   ├── 8 UI images
-│   └── ui.pdf
-│
-├── Add-Ons/
-│   ├── Banner 1.pdf
-│   ├── Banner 2.pdf
-│   ├── Poster.pdf
-│   └── Brochure.pdf
-│
-└── Testing/
-    ├── Assembly Final Project.mp4
-    ├── Computer Vision Test 1.mp4
-    ├── Computer Vision Test 2.mp4
-    └── Practical Test.mp4
-```
-
----
-
 # 📚 Project Documentation
 
 ### `Carty.pdf` / `Carty.pptx`
